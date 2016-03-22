@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GameTestAppVersion3</string>
+    <string name="title_activity_restart">RestartActivity</string>
+</resources>
